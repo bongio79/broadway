@@ -4,6 +4,7 @@ body {
 }
 .header {
   background-image: url("../images/the-flatiron-building.png");
+  background-size: cover;
 }
 h1 {
   font-size: 70px;
